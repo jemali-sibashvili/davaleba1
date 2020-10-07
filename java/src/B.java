@@ -10,7 +10,7 @@ class B extends A{
 
 
     public void dav_2_2_method_1() {
-        Scanner n = new Scanner(System.in);
+        Scanner n   = new Scanner(System.in);
         System.out.println("შეიტანე y: ");
         y = n.nextInt();
     }
